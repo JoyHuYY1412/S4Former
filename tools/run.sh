@@ -1,0 +1,1 @@
+sh ./tools/dist_test.sh configs/SETR/SETR_PUP_DeiT_512x512_40k_cityscapes_sup_bs_16_1over8_split0_semi_bs_16_beta_0.5_th_0.75.py /gruntdata3/Xinting/project/SETR/work_dirs/SETR_PUP_DeiT_512x512_40k_cityscapes_sup_bs_16_1over8_split0_semi_bs_16_beta_0.5_th_0.75/iter_40000.pth 8 --eval mIoU
